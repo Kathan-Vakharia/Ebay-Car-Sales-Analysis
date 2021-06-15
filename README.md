@@ -1,4 +1,4 @@
-# Exploring-Ebay-Car-Sales-Data
+# Ebay Car Sales Analysis 
 
 ![image](https://user-images.githubusercontent.com/51766201/121802140-bfae6d80-cc58-11eb-93b4-29c933e6f05f.png)
 
